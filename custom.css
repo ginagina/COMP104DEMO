@@ -137,14 +137,21 @@ p{
 }
 
 #page-contact #address{
-    margin-top: 200px;
-    margin-right: 15%;
+    display: block;
+    padding: 200px 25px 0 17px;
+ /***   margin-top: 200px;
+    margin-right: 15%; ***/
 }
 
 #page-contact a{
     color: black;
 }
 
+#page-contact #map-canvas{
+    margin-top: 240px;
+    align-content: center;
+    display: none;
+}
 
 
 
