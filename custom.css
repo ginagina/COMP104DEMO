@@ -146,7 +146,7 @@ p{
 }
 
 #page-contact #map-canvas{
-    align: center;
+    align-items: center;
     display: none;
 }
 
